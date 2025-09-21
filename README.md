@@ -1,33 +1,30 @@
-MovieMind - AI Movie Recommendation System
+MovieMind - AI-powered Movie Recommendation System
 A full-stack web application that provides AI-powered movie recommendations based on user preferences and intelligent sentiment analysis.
-🎬 Features
 
-Smart Movie Search: Search movies from TMDB's extensive database
-AI-Powered Recommendations: Get personalized movie suggestions based on your preferences
-User Authentication: Secure login and registration system
-Responsive Design: Optimized for desktop and mobile devices
-Real-time API Integration: Live data from The Movie Database (TMDB)
+:🎬 Features
+1. Smart Movie Search: Search movies from TMDB's extensive database
+2. AI-Powered Recommendations: Get personalized movie suggestions based on your preferences
+3. User Authentication: Secure login and registration system
+4. Responsive Design: Optimized for desktop and mobile devices
+5. Real-time API Integration: Live data from The Movie Database (TMDB)
 Intelligent Filtering: Advanced search and filtering capabilities
 
 🛠️ Tech Stack
 Frontend:
-
-React.js with Vite
-Tailwind CSS for styling
-Axios for API calls
-React Router for navigation
-Lucide React for icons
+1. React.js with Vite
+2. Tailwind CSS for styling
+3. Axios for API calls
+4. React Router for navigation
+5. Lucide React for icons
 
 Backend:
-
-Node.js & Express.js
-MongoDB with Mongoose
-JWT Authentication
-CORS enabled
-RESTful API architecture
+1. Node.js & Express.js
+2. MongoDB with Mongoose
+3. JWT Authentication
+4. CORS enabled
+5. RESTful API architecture
 
 APIs & Services:
-
 TMDB (The Movie Database) API
 MongoDB Atlas (Cloud Database)
 
@@ -39,15 +36,13 @@ MongoDB Atlas account
 TMDB API key
 
 Installation
+1. Clone the repository
 
-Clone the repository
-
-bash   git clone https://github.com/tanujgupta2802/MovieMind-AI-Movie-recommendation.git
+2. git clone https://github.com/tanujgupta2802/MovieMind-AI-Movie-recommendation.git
    cd MovieMind-AI-Movie-recommendation
 
 Backend Setup
-
-bash   # Navigate to backend directory
+# Navigate to backend directory
    cd backend
    
    # Install dependencies
@@ -65,8 +60,7 @@ bash   # Navigate to backend directory
    npm start
 
 Frontend Setup
-
-bash   # Open new terminal and navigate to frontend directory
+# Open new terminal and navigate to frontend directory
    cd frontend
    
    # Install dependencies
