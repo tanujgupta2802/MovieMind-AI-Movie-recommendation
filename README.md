@@ -1,7 +1,7 @@
 MovieMind - AI-powered Movie Recommendation System
 A full-stack web application that provides AI-powered movie recommendations based on user preferences and intelligent sentiment analysis.
 
-:🎬 Features
+🎬 Features:
 1. Smart Movie Search: Search movies from TMDB's extensive database
 2. AI-Powered Recommendations: Get personalized movie suggestions based on your preferences
 3. User Authentication: Secure login and registration system
